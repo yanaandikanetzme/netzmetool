@@ -3,6 +3,9 @@
 Download VSCode https://code.visualstudio.com/Download 
 
 clone project NetzmeTool, lalu install beberapa project berikut :
+
+Make Sure You have Python Installed On Your Device
+
 1. brew install postgresql (Mac OS)/
 2. brew install scrcpy (Mac OS)/
 3. brew install appium
