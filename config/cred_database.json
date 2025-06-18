@@ -9,7 +9,7 @@
     ],
     "NetzmeNetzreg": [
         {
-            "host": "192.168.70.32",
+            "host": "192.168.70.22",
             "database": "netzreg_dev1",
             "user": "netzreg_dev1",
             "password": "contactmeasap"
@@ -17,7 +17,7 @@
     ],
     "NetzmeLenjer": [
         {
-            "host": "192.168.70.32",
+            "host": "192.168.70.22",
             "database": "lenjer_dev1",
             "user": "lenjer_rest_dev1",
             "password": "contactmeasap"
