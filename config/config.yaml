@@ -1,0 +1,12 @@
+- Details:
+    DKI:
+      apiKey: ahca5EqUTcc9k58l
+      api_secret: ad2f7da3da31928274c682e81a24f060
+      clientId: dki
+      tokenAuth: a988e344260e75ebacfa3f933a0883494f235e627ad14c71acb5d64b3c22206b
+    Faspay:
+      FaspayPass: p@ssw0rd
+      FaspayUser: bot32626
+    QRIS:
+      KeyCrossBorder: SoaJaLinBank123
+      KeyDomestik: standart spek SoaJaLinBank123

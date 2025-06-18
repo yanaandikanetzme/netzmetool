@@ -1,0 +1,123 @@
+[
+    {
+        "Merchant": [
+            {
+                "aggregatorId": "loketdotcom",
+                "clearPassword": "YyF76CN8EXhOZ55P",
+                "aggregatorToken": "K0IsesSh52eOIYKzPeyIAjxPpC9oHr6NuRlBkJbOxEA=",
+                "privateKey": "",
+                "clientSecret": "75b3cb8c01e04dc3b466e35eb5928453"
+            },
+            {
+                "aggregatorId": "nuTech",
+                "clearPassword": "abIrQRhM8eArOAoY",
+                "aggregatorToken": "//GdKRyADU232hPh9dQl6Jy7HgI/hoRkK63033CR3FQ=",
+                "privateKey": "",
+                "clientSecret": ""
+            },
+            {
+                "aggregatorId": "xplorin_wp",
+                "clearPassword": "GXMiLm6hZ5VslXYd",
+                "aggregatorToken": "AmQOtL4rJohV0twz1nd6R6dgkVYC/8jmeQQC6rw+pPI=",
+                "privateKey": "",
+                "clientSecret": ""
+            },
+            {
+                "aggregatorId": "xplorinsnap",
+                "clearPassword": "WCSxSc1zqWgSDOCc",
+                "aggregatorToken": "AA7aj/Ih2O/PQX2/SXPDAtYkyNabEqCKV21dXRq/7Fc=",
+                "privateKey": "MIIBOgIBAAJBAMtxa/5kMlkxO/06NxcHvHvOhNHoocsomMdDXBHuM9FaBD5w44KSgbrl31AYInZreEv5OvkNhnpcrnOMhflLV+kCAwEAAQJAEXoW6u20nZDrNF/R57qUaJZfNqEjdQ5xwXx55lhuPyezMZvWZULBXGMpEA5i8VDIvp9lvFtAnH1psXnzwLiqWQIhANRPvLN7uiAo4kVz5rRVZi6reAfhoAqeNMs/YimCjhs3AiEA9U6CWf3hcm76WZmmJ0yYEHOqBBYExCuL6ipzbBM69d8CIEWeR/BK2AOHpHrFwJbNkg4np9pdv877hbBH/nZCGzsNAiA42GemmQmsbgE/0DZLtxkp/tOwPLYAC6NRsWKr8czg+wIhANQbBsy6C+z9lZGRcJ4VrVgZTLMAIgaRF4zxEuVrxIR3",
+                "clientSecret": "aa489078d9f1401ea92c0964391dc9d5"
+            },
+            {
+                "aggregatorId": "banksumpah",
+                "clearPassword": "AMyrseIfnwhTwYG2",
+                "aggregatorToken": "P4IOiP4LOeBb7tN8X50iFFXB+fbEVUXXpIsx5iYWpDs=",
+                "privateKey": "MIIBOwIBAAJBAJ3lNsAfsufNWrZvJGg7Bov7tj5SzHr1J8YlrqD9isioFs8M/DY/u4KNvTEScg7QIL5jLFfSR2OTI36ltmutlCMCAwEAAQJARtHve778DLJz9I3nQ4TuC81r0Yprwt7A50Qxjm4KWLMvpOxNYS7jgWthIqY4ZjjdCAFpuvABPd1JfvhIvUlqSQIhAMjqCr1ZFKZDBx+AwBXhpXk0kwZB5HTa3zR+GbcNoibFAiEAyS+5M2qHpQNW1XF7wxYe01HGlrCD8iqE/3N9XDwavccCICqBYT5H31eBbLtceMboUyK+XbCANj4GpBwt5XDVwI1lAiEAobYwgTmRynuCopJTTp5LLMTAgYNkq5Stzr8/9pGBVSUCIQCb45S9PildaIDrnvphw6G6tNvJaI4tuGEHVPrwEMYCHA==",
+                "clientSecret": "e4a63488152d4150935c88d1e0412925"
+            },
+            {
+                "aggregatorId": "merchantqasnap",
+                "clearPassword": "TdCjVgangv7jkEBo",
+                "aggregatorToken": "2jULkeQLPYanBrhc3WZffekjl9T5s2bJqJwyxKbjREY=",
+                "privateKey": "MIIBOwIBAAJBAKfdxaK7SdvlHeW2KSl6KXW/Q4+uIXUGTSqoEAkqzQzUHRrXhfFYe8sc9mxXRXR8xF2MAhgqydbrVOLyj3U/N9sCAwEAAQJADcCMZWWEioA9r8j5nE1Gwj+2EDpKwWSPw9Pa5HVeMRO5dtpjyIOar1xPsZD8znWQiDJsD0kV2wByvgLsYFBBQQIhAN4KB6pYMb0jWWDaR0wvBtDvdcFqvi2yI1e7sCSp3H4hAiEAwYqYtURnS6Zt2dsT0W+wQ+1ZnSUlCKlqZyydnNku3nsCIQCqlRAQiZMk2Lx40RlHaTWWXPGdt9EFsD7Azzvi3vC7oQIgWbMIj4qCbVdXNk8I4lpnUTQiAmkCvv7155eP/O/Tfx0CIQClHn77Z8Gx/ZDmL1h1+FnTVVhgjz5dzCM8gjw33WVwFQ==",
+                "clientSecret": "5e19734c851240e2b37f23a32715dc68"
+            },
+            {
+                "aggregatorId": "netzme-test",
+                "clearPassword": "Eivooqua6beeChoj",
+                "aggregatorToken": "tpAHCLlPf1Vizb1KRgX55gQ9EckZnsw61+9/CYaCJBk=",
+                "privateKey": "",
+                "clientSecret": ""
+            },
+            {
+                "aggregatorId": "dreamwell",
+                "clearPassword": "REOwZnbjN1tb80Gs",
+                "aggregatorToken": "SAItkJRD+8EnoyTlB8XD0NGAlrXwpzeeivvM4zpZl/E=",
+                "privateKey": "",
+                "clientSecret": ""
+            }
+        ],
+        "PPOB": [
+            {
+                "clientId": "purbastg",
+                "clientKeyPattern": "||-",
+                "clientCallbackKey": "RmP0XVgH>>f6pzAw{?kT@yK|A>yssO~28M)#C_#Phny1zaxg1vU@sXsA|ilEUm!o",
+                "clientKey": "PhE87h!<_M]_>6Uqsv1i7ivzWK385?MfnL2uE8j0OIp<u@V<tnVQRW(^mZo[Buas",
+                "privateKey": "MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsQR/LmD4sCo9vdW9CpMwYyJp/9rJ3iFrpKBMm+cyUZX5Jd/OnfM7MLDJ28u9+c1T/XhDaV34YJe5T5IZ+RDWFAJBqAzqWiLfzH/Xr0sqDgJGTNiyqSOBtADEnRBSVykMmSEM5j0xGPWpiqdRcp/lPjQtI6VCqAIMP/5mBoncfcI/E8547Hc3SZHPSWazU6i0yRnQCG1aySQRqKhFgh20keYwBOlRS9ve5LS2ZhsNJzRUN0GChj/UWHQOgANT1aFvO209XRYfPjiy5iOiLHG6huBdcoUoRXpOTqezpMLYT5FkT03Ipf8pfbccPuVOGMRxPtS489CThMQ3Pk/RAX61dAgMBAAECggEAEJTzqhuIP0tu87RS1xAFLmI/7o9Bg9yQ9SlB8A++SrobIO3BUKoPlZEFn0oTQFF66QWq9VHUgMpEpI0hs02pTJnkIl3C3z3fCLJWxUeqmLkg370ofztPu2ki0jGtZ56rvdIurSpRwIs7Tq8kPcfVFKbdDhJDt8cf1sOXXpF/X9EY3mLbbmZwmxuZhqOl+9D3PCT8anTzks9H7h0jMvQYUEp5/rRwiv6hnUZsYiQaz4pwnkRhtzPZbebW/XQyQAuer+RKeWsLP70ybBun0j4DEoOJh6IPo/9YHARtkNoeg+JFj/9ZLJPkmrAy7KaLpWivkAbQXIKji9DHjK3niJ92UwKBgQDVjHtC7Ri0E8QyW2ClwjDRPXTxM8+UX40YiNbTkvBhao/Jeq8/K9JR6EbR12si6ZeGHXJOQ1rOPyzxoTk3U+DKsK48F04ZxYhBOZE/+eSF0iEwIu37jLJygQ0MFTFYPah2QucTAstC/GXcZ4CqlTIiiDwiZEtsdgxYhrXWaLIuhwKBgQDOfysOYPD3g9/LpLzaKVW3wLv7W9SpTZD3cv2i2in+u3vgYjVUyea8GN7FStRMjJrcmMzSytbQ5FTE4NiMfY/6NS2N1ZjlhDSsO62etgCb7ZJ6e59bt55jog+17rsepKm545YI8/PwK2ZRG/U1C67QoZdsaKujxCNY9TDcLDA5+wKBgFB+TmvwsPIXzUlp9ikk5H/KWY0diW4VAjswQUGozmD56M76Jpp6KyHimuc3+tNDF3FfIhnr+4todslxiv6W6FGefV57Ll46fdyQFXb2+7ORfB8H24qJAy50BHX8ewgW3awOFcmtsO5D8yU8AlzKNgacMYaJJYDxkj/AL0RtXFR7AoGAGzn3MlkjzG7N1irtX5Jto+G8p2KvQndgss+tk4hSWyzbI3WvdHN+gbSBwt+f6Evtq0JWV0C5XCeO6bp/st5nWmUikX3lP/XTgBYKSU/T+rszQgUEuPIX5ykaCzHj6CFr43+Xa6zGsBb40Z7vEMRuk0GLFpcicmBNDNCfVZhZ73sCgYEAyS2JRw9vOyzAIxSqlUIlSBRaK/DUZ26P3WQgGYCTZRisTSuLE+B9hN1aRQOg1gEbM3ut/AzkDKY8PJTjP7yEydz4gHo7k7PBOY3feExzWevI6NwH0zooSziy+DWMe6XcE17NJMvHHyIY8H+llpQ5VT/2MpljTNx10W8jWYDWTHk=",
+                "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArEEfy5g+LAqPb3VvQqTMGMiaf/ayd4ha6SgTJvnMlGV+SXfzp3zOzCwydvLvfnNU/14Q2ld+GCXuU+SGfkQ1hQCQagM6loi38x/169LKg4CRkzYsqkjgbQAxJ0QUlcpDJkhDOY9MRj1qYqnUXKf5T40LSOlQqgCDD/+ZgaJ3H3CPxPOeOx3N0mRz0lms1OotMkZ0AhtWskkEaioRYIdtJHmMATpUUvb3uS0tmYbDSc0VDdBgoY/1Fh0DoADU9WhbzttPV0WHz44suYjoixxuobgXXKFKEV6Tk6ns6TC2E+RZE9NyKX/KX23HD7lThjEcT7UuPPQk4TENz5P0QF+tXQIDAQAB"
+            }
+        ],
+        "Netzme": [
+            {
+                "aggregatorId": "xplorin",
+                "clearPassword": "5RjMRpOKc4Bujxsr",
+                "aggregatorToken": "HYmcM/SUuCVs0/r3MlPzfJfxV+IAyfPVAbuYRZRAfoE=",
+                "privateKey": "",
+                "clientSecret": "5eb4e9da2772445f9635ca964cceb4a6"
+            },
+            {
+                "aggregatorId": "elisoft",
+                "clearPassword": "ENloLHtzyj8ZPGWg",
+                "aggregatorToken": "LgO/0eMbyDhuOT521kWSjI8LuyUT3Htvpsd+83ZEJvs=",
+                "privateKey": "",
+                "clientSecret": "7ef5009a53c7412c82cbd5a44ddd3f72"
+            },
+            {
+                "aggregatorId": "persija-access",
+                "clearPassword": "9vJ7TxYBu4YSWCTw",
+                "aggregatorToken": "FXzty7pMtnHq4qMP6Nk4EW88bhZotyEGKfONurbaX9Q=",
+                "privateKey": "",
+                "clientSecret": "93917ac533ad45fca37e5cf88df75006"
+            },
+            {
+                "aggregatorId": "purba_nonsnap",
+                "clearPassword": "JTApKE76QQvBbD3i",
+                "aggregatorToken": "19gBxqK2aBOelyihb86ohVMoZvnO+OYek4ZVJ28L9eQ=",
+                "privateKey": "",
+                "clientSecret": ""
+            },
+            {
+                "aggregatorId": "xplorinsnap",
+                "clearPassword": "JTApKE76QQvBbD3i",
+                "aggregatorToken": "19gBxqK2aBOelyihb86ohVMoZvnO+OYek4ZVJ28L9eQ=",
+                "privateKey": "MIIBOgIBAAJBANCoqdBnOmLlVvE7eO22zE+7lqn/6PrIfMHoKm8adz6kbBJoNeXSLqjuKEhnT47H0ZLIZHl3F72CQZhROitfMW0CAwEAAQJANkZY/YuMZWMQTWlR2Et/M5Iw64FUgb8arHmOaB3zPIiiEIfI6JpUPIvbT0WDrs1ajd0tCRiv40ZJQjQIieDl5QIhAOo/HmE5nbq3ZqPF4rI4jVdraYf0uH4gZQjd4j0vpSX7AiEA5Ak7mk9CXIDaZnkqNgsFbkG+t+b6FXZG20iCBN5kMbcCIGZXh1VhD9mY8V4SQfYtoQsVobjFoalxS9Mw5fxniZbrAiEAlPNS82CCQFoKTpUmdVaNnY9kPEurXwl7DxE1nGiHmdECIBZKkmp3FVZNW0tYXNzqu79oRnbn1Fzl9IzX+idHBwVR",
+                "clientSecret": "b856837012d643c2906e94164927f787"
+            },
+            {
+                "aggregatorId": "purba_snap",
+                "clearPassword": "Ki8VxugFbmjR1KKY",
+                "aggregatorToken": "mXOmJl0Us3vy/gHNOK0JCWSeIaR25IEUVvwEUdtImsU=",
+                "privateKey": "MIIBPAIBAAJBAJQZrIDDANrKg5tMnONlEqxy/LktTinFNJjL0ZIQ6D+fUeA7gouWHmG58LhT52ODDHjnZRYNnLSAwqxpXBhBSOcCAwEAAQJBAINW4WyvgyqFPoGTR+9By3Wz4/w0+YSBp0t6Nbjb1ZvVTV9zDthDBjT5SIJCWNtjT4paDDjImS0bbyjFWce6GQECIQDEXf90blXLfDUEzk8AoOd5RwuZo6vGHRxNKVJUJVVUsQIhAMETTiOzP7I/w7nKeBQw8/kKj9Q+Yr7sAy9V91djEL0XAiEAr89Iy8GNZuYJwgfEi9eD5v1I0YHMZU/i6uK4J0ZVo8ECIFdDFmnkNcGmOBvcenEFvv6r212d5JtNqBLY07VXPNV5AiEAp3Z4+GQEKExpebdh3dsYXTe0r5kp4Zx+Qzr3O/i3u04=",
+                "clientSecret": "4da2a50ad6f64e548c1f5b7936baa7d3"
+            },
+            {
+                "aggregatorId": "ximply",
+                "clearPassword": "asdasd",
+                "aggregatorToken": "3s",
+                "privateKey": "1e",
+                "clientSecret": "zsdasd"
+            }
+        ]
+    }
+]

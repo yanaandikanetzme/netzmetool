@@ -1,0 +1,12 @@
+{
+  "database1": [
+    {"Group": "grup1", "Query": ["query1", "query2"]},
+    {"Group": "grup2", "Query": ["query3", "query4"]}
+  ],
+  "database2": [
+    {"Group": "grup3", "Query": ["query5", "query6"]}
+  ],
+  "database3": [
+    {"Group": "grup3", "Query": ["query7", "query1"]}
+  ]
+}

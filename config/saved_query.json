@@ -1,0 +1,56 @@
+{
+  "Merchant": [
+    {
+      "Group": "Merchant",
+      "Query": [
+        "select*from users;",
+        "select*from merchants;"
+      ]
+    },
+    {
+      "Group": "Invoice",
+      "Query": []
+    },
+    {
+      "Group": "Qris",
+      "Query": [
+        "select*from merchant_invoice_transaction mit where mit.merchant_id = 'M_TB1NMLig' and mit.payment_method ='QRIS' order by mit.created_ts desc limit 50;",
+        "\nselect*from qr_merchant_transaction qmt where qmt.merchant_id='M_TB1NMLig' order by qmt.seq desc limit 50;",
+        "\nselect*from events where user_id ='M_TB1NMLig' order by ts desc limit 50;",
+        "\nselect*from qris_content qc where qc.merchant_id = 'M_TB1NMLig' order by seq desc limit 50;",
+        "\nSELECT merchant_balance_unsettle.user_id, SUM (merchant_balance_unsettle.balance) AS balance_unsettles, merchant_balance.balance\nas balance_settle, SUM(merchant_balance_unsettle.balance) + merchant_balance.balance as total_balance FROM merchant_balance_unsettle\nINNER JOIN merchant_balance ON merchant_balance.user_id = merchant_balance_unsettle.user_id where merchant_balance_unsettle.user_id\nin ('M_TB1NMLig')  GROUP BY merchant_balance_unsettle.user_id,merchant_balance.balance order by merchant_balance_unsettle.user_id;"
+      ]
+    },
+    {
+      "Group": "Settlement",
+      "Query": []
+    },
+    {
+      "Group": "Withdraw",
+      "Query": []
+    },
+    {
+      "Group": "Aggregator",
+      "Query": []
+    }
+  ],
+  "NetzmeNetzreg": [
+    {
+      "Group": "Users",
+      "Query": [
+        "select*from users where user_name='asdasd';"
+      ]
+    }
+  ],
+  "NetzmeLenjer": [
+    {
+      "Group": "Events",
+      "Query": [
+        "select*from events;",
+        "select*from events_merchant;",
+        "select*from events_userss;"
+      ]
+    }
+  ],
+  "NetzmeFinance": []
+}

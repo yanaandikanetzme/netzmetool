@@ -1,0 +1,34 @@
+{
+    "Merchant": [
+        {
+            "host": "192.168.70.23",
+            "database": "merchant_stg",
+            "user": "merchant_stg",
+            "password": "yh4YEg3Rf9nV3nmt"
+        }
+    ],
+    "NetzmeNetzreg": [
+        {
+            "host": "192.168.70.32",
+            "database": "netzreg_stg",
+            "user": "netzmestg",
+            "password": "oUtc6aANqfjbHqZoPUya6iAu"
+        }
+    ],
+    "NetzmeLenjer": [
+        {
+            "host": "192.168.70.32",
+            "database": "lenjer_stg",
+            "user": "netzmestg",
+            "password": "oUtc6aANqfjbHqZoPUya6iAu"
+        }
+    ],
+    "NetzmeFinance": [
+        {
+            "host": "192.168.70.32",
+            "database": "finance_stg",
+            "user": "netzmestg",
+            "password": "oUtc6aANqfjbHqZoPUya6iAu"
+        }
+    ]
+}
